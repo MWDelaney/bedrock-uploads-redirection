@@ -1,0 +1,16 @@
+{
+  "name": "mwdelaney/bedrock-uploads-redirection",
+  "description": "Detect whether this is a Bedrock installation and redirect wp-content/uploads/* to app/uploads/*",
+  "keywords": ["wordpress", "plugin", "redirection", "bedrock"],
+  "homepage": "https://github.com/mwdelaney/bedrock-uploads-redirection",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael W. Delaney"
+    }
+  ],
+  "type": "wordpress-muplugin",
+  "require": {
+    "php": ">=7.4"
+  }
+}
